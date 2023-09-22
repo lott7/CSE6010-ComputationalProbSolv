@@ -3,7 +3,7 @@ CSE 6010 - Assignment 1
 Solving Nonlinear Equations
 
 ---
-Description:
+#Description:
 Root-finding is a common scientific task where we seek solutions of nonlinear equations. Sometimes we seek solutions of multiple equations with multiple variables.
 In this assignment, we will look at an example of such a case by finding points of intersection of two ellipses given by the following functions:
 
@@ -49,7 +49,7 @@ Compiler and Operating System Information:
 - Compiler: 5.15.90.1-microsoft-standard-WSL2 #1 SMP Fri Jan 27 02:56:13 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
 - Operating System: Microsoft Windows 11 Home / Ubuntu 22.04.2 LTS
 
-Instructions to Compile and Run the C Program:
+#Instructions to Compile and Run the C Program:
 
 1. Ensure you have a C compiler installed on your system. If not, you can install one appropriate for your operating system.
 
