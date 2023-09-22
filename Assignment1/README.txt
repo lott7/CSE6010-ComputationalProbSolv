@@ -3,6 +3,7 @@ CSE 6010 - Assignment 1
 Solving Nonlinear Equations
 
 ---
+
 Description:
 Root-finding is a common scientific task where we seek solutions of nonlinear equations. Sometimes we seek solutions of multiple equations with multiple variables.
 In this assignment, we will look at an example of such a case by finding points of intersection of two ellipses given by the following functions:
