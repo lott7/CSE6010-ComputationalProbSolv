@@ -45,6 +45,7 @@ y_n+1 = (1 / √21) * √(9 - 5x_n^2)
 
 It can be shown that this iterative scheme, if it converges, will converge to a solution of the desired equations. Note that because square roots are involved, you should expect to find only the intersection point with positive values. In addition, the method should fail if at any point it needs to take the square root of a negative number.
 
+---
 
 Compiler and Operating System Information:
 - Compiler: 5.15.90.1-microsoft-standard-WSL2 #1 SMP Fri Jan 27 02:56:13 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
