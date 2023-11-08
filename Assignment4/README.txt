@@ -4,6 +4,11 @@ Collisions
 
 ---
 
+Description:
+This assignment contains a C program for simulating collisions of particles in a two-dimensional box. The simulation includes interactions between particles and collisions with the box walls. Instead of using a continuous update approach, this program employs an event-driven approach, calculating precise collision times and efficiently updating particle positions only when necessary. An example test file "particles1.txt" is provided.
+
+---
+
 Compiler and Operating System Information:
 - Compiler: 5.15.90.1-microsoft-standard-WSL2 #1 SMP Fri Jan 27 02:56:13 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
 - Operating System: Microsoft Windows 11 Home / Ubuntu 22.04.2 LTS
