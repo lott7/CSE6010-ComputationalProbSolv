@@ -67,7 +67,7 @@ void bellmanFord(Graph *graph, int num_threads, int source_vertex, int destinati
     start_time = omp_get_wtime();
 
     // Parallelizing the execution of the Bellman-Ford algorithm
-    // #pragma omp parallel 
+    #pragma omp parallel 
     {
         while (flag) {
             flag = 0;
